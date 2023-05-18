@@ -4,19 +4,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Security Audits</b>
   - [Conducting Secuity Audits](https://github.com/klgate89/SecurityAuditLab/blob/main/README.md)
-- <b>Network Structure & Security</b>
   - [Analyzing Network Structure & Security](https://github.com/klgate89/NetworkStructureAndSecurity)
-- <b>Linux</b>
   - [Using Linux Commands To Manage File Permissions](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>SQL</b>
   - [Applying Filters To SQL Queries](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>Vulnerrabilities</b>
   - [Identifying Vulnerabilities For Small Business](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Incidents</b>
   - [Documenting Incidents With An Incident Handler's Journal](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Importing & Parasing Text</b>
   - [Importing & Parsing A Text File In A Security-Related Scenario](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Certifications:</h2>
