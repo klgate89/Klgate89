@@ -7,7 +7,7 @@
 - <b>Security Audits</b>
   - [Conducting Secuity Audits](https://github.com/klgate89/SecurityAuditLab/blob/main/README.md)
 - <b>Network Structure & Security</b>
-  - [Analyzing Network Structure & Security](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Analyzing Network Structure & Security](https://github.com/klgate89/NetworkStructureAndSecurity)
 - <b>Linux</b>
   - [Using Linux Commands To Manage File Permissions](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>SQL</b>
