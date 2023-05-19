@@ -1,4 +1,7 @@
-<h1>Hi, I'm Krystle! <br/> <a href="https://www.linkedin.com/in/krystlegates/">Cybersecurity Professional</a></h1>
+<img width="1424" alt="E3A12C84-738C-45ED-B693-125D05D63C63" src="https://github.com/klgate89/Images-in-read-me/assets/133932451/438245f8-b8a6-4de9-9fca-31ef5529b637">
+
+
+
 
 <b>As a beginner in the cybersecurity field, I am committed to developing a strong foundation and building a diverse skill set. I possess a relentless drive to grow in this ever-evolving domain, and I am excited to contribute my unique strengths and values to protect organizations and individuals. I am committed to developing technical proficiency, problem-solving skills, and strong communication abilities to effectively convey technical concepts to technical and non-technical stakeholders. I value protecting organizations and individuals from cyber threats, upholding ethical standards and maintaining compliance with laws and regulations, and promoting digital safety and secure online environments for all. I am most passionate about the constant challenge and opportunity to make a tangible impact in this field, and I differentiate myself by combining technical expertise with a strong focus on communication and collaboration. I offer potential employers a trustworthy and reliable cybersecurity professional with a strong ethical foundation, a genuine enthusiasm to learn, and a relentless commitment to growth. </b>
 
