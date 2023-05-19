@@ -1,4 +1,4 @@
-<img width="1424" alt="E3A12C84-738C-45ED-B693-125D05D63C63" src="https://github.com/klgate89/Images-in-read-me/assets/133932451/438245f8-b8a6-4de9-9fca-31ef5529b637">
+<img width="900" alt="E3A12C84-738C-45ED-B693-125D05D63C63" src="https://github.com/klgate89/Images-in-read-me/assets/133932451/438245f8-b8a6-4de9-9fca-31ef5529b637">
 
 
 
