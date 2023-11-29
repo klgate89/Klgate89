@@ -9,7 +9,7 @@
   - [Using Linux Commands To Manage File Permissions](https://github.com/klgate89/LINUXCOMMANDS)
   - [Applying Filters To SQL Queries](https://github.com/klgate89/Filterstosqlqueries)
   - [Identifying Vulnerabilities For Small Business](https://github.com/klgate89/IdentifyingVulnerabilities)
-  - [Documenting Incidents With An Incident Handler's Journal](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Documenting Incidents With An Incident Handler's Journal](https://github.com/klgate89/Incidenthandlersjournal)
   - [Importing & Parsing A Text File In A Security-Related Scenario](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻 Certifications:</h2>
