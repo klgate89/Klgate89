@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Conducting Secuity Audits](https://github.com/klgate89/SecurityAuditLab/blob/main/README.md)
-  - [Analyzing Network Structure & Security](https://github.com/klgate89/Analyzingnetworkstructureandsecurity/tree/main)
+  - [Analyzing Network Structure & Security](https://github.com/klgate89/Analyzingnetworkstructureandsecurity)
   - [Using Linux Commands To Manage File Permissions](https://github.com/klgate89/LINUXCOMMANDS/tree/main)
   - [Applying Filters To SQL Queries](https://github.com/klgate89/Filterstosqlqueries)
   - [Identifying Vulnerabilities For Small Business](https://github.com/klgate89/IdentifyingVulnerabilities)
