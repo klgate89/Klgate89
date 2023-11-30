@@ -14,8 +14,11 @@
 
 <h2>👨‍💻 Certifications:</h2>
 - Google Cybersecurity
+<br>
 - CompTIA Security+ (Expected 1/24)
+<br>
 - Google Cybersecurity Professional
+<br>
 - FEMA National Incident Management System (NIMS): ICS-100
 
 <h2>📓 Education</h2>
